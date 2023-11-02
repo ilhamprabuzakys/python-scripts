@@ -1,0 +1,1452 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "textwrap",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "textwrap",
+        "description": "textwrap",
+        "detail": "textwrap",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "colored",
+        "importPath": "termcolor",
+        "description": "termcolor",
+        "isExtraImport": true,
+        "detail": "termcolor",
+        "documentation": {}
+    },
+    {
+        "label": "colored",
+        "importPath": "termcolor",
+        "description": "termcolor",
+        "isExtraImport": true,
+        "detail": "termcolor",
+        "documentation": {}
+    },
+    {
+        "label": "colored",
+        "importPath": "termcolor",
+        "description": "termcolor",
+        "isExtraImport": true,
+        "detail": "termcolor",
+        "documentation": {}
+    },
+    {
+        "label": "colored",
+        "importPath": "termcolor",
+        "description": "termcolor",
+        "isExtraImport": true,
+        "detail": "termcolor",
+        "documentation": {}
+    },
+    {
+        "label": "colored",
+        "importPath": "termcolor",
+        "description": "termcolor",
+        "isExtraImport": true,
+        "detail": "termcolor",
+        "documentation": {}
+    },
+    {
+        "label": "colored",
+        "importPath": "termcolor",
+        "description": "termcolor",
+        "isExtraImport": true,
+        "detail": "termcolor",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "tkinter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "scrolledtext",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "basename",
+        "importPath": "os.path",
+        "description": "os.path",
+        "isExtraImport": true,
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "splitext",
+        "importPath": "os.path",
+        "description": "os.path",
+        "isExtraImport": true,
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "join",
+        "importPath": "os.path",
+        "description": "os.path",
+        "isExtraImport": true,
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "isdir",
+        "importPath": "os.path",
+        "description": "os.path",
+        "isExtraImport": true,
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "as_completed",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "as_completed",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "as_completed",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "as_completed",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "requests_cache",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests_cache",
+        "description": "requests_cache",
+        "detail": "requests_cache",
+        "documentation": {}
+    },
+    {
+        "label": "retry",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "stop_after_attempt",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "wait_fixed",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "retry",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "stop_after_attempt",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "wait_fixed",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "retry",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "stop_after_attempt",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "wait_fixed",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "retry",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "stop_after_attempt",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "wait_fixed",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "difflib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "difflib",
+        "description": "difflib",
+        "detail": "difflib",
+        "documentation": {}
+    },
+    {
+        "label": "cfscrape",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cfscrape",
+        "description": "cfscrape",
+        "detail": "cfscrape",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "check_chapters",
+        "description": "check_chapters",
+        "peekOfCode": "parser = argparse.ArgumentParser(description='Check for missing chapters.')\nparser.add_argument('dir_path', type=str, help='The directory path where the chapters are located.')\nargs = parser.parse_args()\n# Mendaftar semua subdirektori dalam direktori yang diberikan\nchapter_paths = [os.path.join(args.dir_path, name) for name in os.listdir(args.dir_path) if os.path.isdir(os.path.join(args.dir_path, name))]\n# Mendapatkan nomor chapter dari setiap direktori\nchapter_numbers = []\nfor path in chapter_paths:\n    base_name = os.path.basename(path)\n    if base_name != 'PDF' and '-' not in base_name:",
+        "detail": "check_chapters",
+        "documentation": {}
+    },
+    {
+        "label": "args",
+        "kind": 5,
+        "importPath": "check_chapters",
+        "description": "check_chapters",
+        "peekOfCode": "args = parser.parse_args()\n# Mendaftar semua subdirektori dalam direktori yang diberikan\nchapter_paths = [os.path.join(args.dir_path, name) for name in os.listdir(args.dir_path) if os.path.isdir(os.path.join(args.dir_path, name))]\n# Mendapatkan nomor chapter dari setiap direktori\nchapter_numbers = []\nfor path in chapter_paths:\n    base_name = os.path.basename(path)\n    if base_name != 'PDF' and '-' not in base_name:\n        chapter_numbers.append(int(base_name))\n# Mengecek setiap angka dari 1 sampai chapter terakhir",
+        "detail": "check_chapters",
+        "documentation": {}
+    },
+    {
+        "label": "chapter_paths",
+        "kind": 5,
+        "importPath": "check_chapters",
+        "description": "check_chapters",
+        "peekOfCode": "chapter_paths = [os.path.join(args.dir_path, name) for name in os.listdir(args.dir_path) if os.path.isdir(os.path.join(args.dir_path, name))]\n# Mendapatkan nomor chapter dari setiap direktori\nchapter_numbers = []\nfor path in chapter_paths:\n    base_name = os.path.basename(path)\n    if base_name != 'PDF' and '-' not in base_name:\n        chapter_numbers.append(int(base_name))\n# Mengecek setiap angka dari 1 sampai chapter terakhir\nmissing_chapters = []\nfor i in range(1, max(chapter_numbers)+1):",
+        "detail": "check_chapters",
+        "documentation": {}
+    },
+    {
+        "label": "chapter_numbers",
+        "kind": 5,
+        "importPath": "check_chapters",
+        "description": "check_chapters",
+        "peekOfCode": "chapter_numbers = []\nfor path in chapter_paths:\n    base_name = os.path.basename(path)\n    if base_name != 'PDF' and '-' not in base_name:\n        chapter_numbers.append(int(base_name))\n# Mengecek setiap angka dari 1 sampai chapter terakhir\nmissing_chapters = []\nfor i in range(1, max(chapter_numbers)+1):\n    # Jika angka tersebut tidak ada dalam chapter_numbers, maka itu adalah chapter yang hilang\n    if i not in chapter_numbers:",
+        "detail": "check_chapters",
+        "documentation": {}
+    },
+    {
+        "label": "missing_chapters",
+        "kind": 5,
+        "importPath": "check_chapters",
+        "description": "check_chapters",
+        "peekOfCode": "missing_chapters = []\nfor i in range(1, max(chapter_numbers)+1):\n    # Jika angka tersebut tidak ada dalam chapter_numbers, maka itu adalah chapter yang hilang\n    if i not in chapter_numbers:\n        missing_chapters.append(f\"Chapter {i:03}\")\n# Convert list of missing chapters into a string and print it with 6 columns\nmissing_chapters_str = '  '.join(missing_chapters)\nprint(\"\\n\".join(textwrap.wrap(missing_chapters_str, width=90)))  # Set the width as you need",
+        "detail": "check_chapters",
+        "documentation": {}
+    },
+    {
+        "label": "missing_chapters_str",
+        "kind": 5,
+        "importPath": "check_chapters",
+        "description": "check_chapters",
+        "peekOfCode": "missing_chapters_str = '  '.join(missing_chapters)\nprint(\"\\n\".join(textwrap.wrap(missing_chapters_str, width=90)))  # Set the width as you need",
+        "detail": "check_chapters",
+        "documentation": {}
+    },
+    {
+        "label": "redirector",
+        "kind": 2,
+        "importPath": "comic_downloader_gui",
+        "description": "comic_downloader_gui",
+        "peekOfCode": "def redirector(inputStr):\n    textbox.insert(tk.INSERT, inputStr)\ndef run_script(slug, start, end, save_dir):\n    slug = slug.replace(\" \", \"-\").lower()  # Konversi slug ke format yang diinginkan\n    # Inisialisasi URL\n    base_url = f\"https://komikcast.io/chapter/{slug}-chapter-\"\n    # Jika end adalah None, atur menjadi sama dengan start\n    end = end if end is not None else start\n    # Tambahkan ini untuk mengubah direktori kerja ke direktori yang dipilih\n    os.chdir(save_dir)",
+        "detail": "comic_downloader_gui",
+        "documentation": {}
+    },
+    {
+        "label": "run_script",
+        "kind": 2,
+        "importPath": "comic_downloader_gui",
+        "description": "comic_downloader_gui",
+        "peekOfCode": "def run_script(slug, start, end, save_dir):\n    slug = slug.replace(\" \", \"-\").lower()  # Konversi slug ke format yang diinginkan\n    # Inisialisasi URL\n    base_url = f\"https://komikcast.io/chapter/{slug}-chapter-\"\n    # Jika end adalah None, atur menjadi sama dengan start\n    end = end if end is not None else start\n    # Tambahkan ini untuk mengubah direktori kerja ke direktori yang dipilih\n    os.chdir(save_dir)\n    # Selanjutnya adalah kode skrip Anda yang tidak diubah...\n    # Mendefinisikan berbagai format gambar",
+        "detail": "comic_downloader_gui",
+        "documentation": {}
+    },
+    {
+        "label": "validate_and_run_script",
+        "kind": 2,
+        "importPath": "comic_downloader_gui",
+        "description": "comic_downloader_gui",
+        "peekOfCode": "def validate_and_run_script():\n    base_url = e1.get()\n    start_chapter = e2.get()\n    end_chapter = e3.get()\n    save_dir = e4.get()\n    if not base_url or not start_chapter or not save_dir:\n        messagebox.showerror(\"Error\", \"Slug Komik, chapter awal, dan lokasi penyimpanan harus diisi.\")\n        return\n    if not start_chapter.isdigit() or (end_chapter and not end_chapter.isdigit()):\n        messagebox.showerror(\"Error\", \"Chapter awal dan akhir harus berupa angka.\")",
+        "detail": "comic_downloader_gui",
+        "documentation": {}
+    },
+    {
+        "label": "select_directory",
+        "kind": 2,
+        "importPath": "comic_downloader_gui",
+        "description": "comic_downloader_gui",
+        "peekOfCode": "def select_directory():\n    dir_selected = filedialog.askdirectory()\n    save_dir.set(dir_selected)  # Set nilai save_dir menjadi direktori yang dipilih\nmaster = tk.Tk()\nmaster.geometry(\"900x600\")  # Set window size\n# Variabel tkinter untuk menyimpan direktori yang dipilih\nsave_dir = tk.StringVar()\ntk.Label(master, text=\"Slug Komik:\").grid(row=0)\ntk.Label(master, text=\"Chapter Awal:\").grid(row=1)\ntk.Label(master, text=\"Chapter Akhir (Opsional):\").grid(row=2)",
+        "detail": "comic_downloader_gui",
+        "documentation": {}
+    },
+    {
+        "label": "print_and_log",
+        "kind": 2,
+        "importPath": "comic_downloader_gui",
+        "description": "comic_downloader_gui",
+        "peekOfCode": "def print_and_log(message):\n    print(message)  # print ke stdout\n    # Ekstrak kode warna dari pesan\n    color_code = re.search(\"\\033\\[\\d+m\", message)\n    if color_code:\n        # Konversi kode warna ANSI ke nama warna Tkinter\n        color = {\n            \"\\033[31m\": \"red\",               # merah\n            \"\\033[32m\": \"green\",             # hijau\n            \"\\033[33m\": \"yellow\",            # kuning",
+        "detail": "comic_downloader_gui",
+        "documentation": {}
+    },
+    {
+        "label": "master",
+        "kind": 5,
+        "importPath": "comic_downloader_gui",
+        "description": "comic_downloader_gui",
+        "peekOfCode": "master = tk.Tk()\nmaster.geometry(\"900x600\")  # Set window size\n# Variabel tkinter untuk menyimpan direktori yang dipilih\nsave_dir = tk.StringVar()\ntk.Label(master, text=\"Slug Komik:\").grid(row=0)\ntk.Label(master, text=\"Chapter Awal:\").grid(row=1)\ntk.Label(master, text=\"Chapter Akhir (Opsional):\").grid(row=2)\ntk.Label(master, text=\"Lokasi Penyimpanan:\").grid(row=3)\ne1 = tk.Entry(master)\ne2 = tk.Entry(master)",
+        "detail": "comic_downloader_gui",
+        "documentation": {}
+    },
+    {
+        "label": "save_dir",
+        "kind": 5,
+        "importPath": "comic_downloader_gui",
+        "description": "comic_downloader_gui",
+        "peekOfCode": "save_dir = tk.StringVar()\ntk.Label(master, text=\"Slug Komik:\").grid(row=0)\ntk.Label(master, text=\"Chapter Awal:\").grid(row=1)\ntk.Label(master, text=\"Chapter Akhir (Opsional):\").grid(row=2)\ntk.Label(master, text=\"Lokasi Penyimpanan:\").grid(row=3)\ne1 = tk.Entry(master)\ne2 = tk.Entry(master)\ne3 = tk.Entry(master)\ne4 = tk.Entry(master, textvariable=save_dir)  # Field baru untuk lokasi penyimpanan\ne1.grid(row=0, column=1)",
+        "detail": "comic_downloader_gui",
+        "documentation": {}
+    },
+    {
+        "label": "e1",
+        "kind": 5,
+        "importPath": "comic_downloader_gui",
+        "description": "comic_downloader_gui",
+        "peekOfCode": "e1 = tk.Entry(master)\ne2 = tk.Entry(master)\ne3 = tk.Entry(master)\ne4 = tk.Entry(master, textvariable=save_dir)  # Field baru untuk lokasi penyimpanan\ne1.grid(row=0, column=1)\ne2.grid(row=1, column=1)\ne3.grid(row=2, column=1)\ne4.grid(row=3, column=1)\ntextbox = scrolledtext.ScrolledText(master, width=100, height=20)\ntextbox.grid(column=0, row=5, columnspan=2)",
+        "detail": "comic_downloader_gui",
+        "documentation": {}
+    },
+    {
+        "label": "e2",
+        "kind": 5,
+        "importPath": "comic_downloader_gui",
+        "description": "comic_downloader_gui",
+        "peekOfCode": "e2 = tk.Entry(master)\ne3 = tk.Entry(master)\ne4 = tk.Entry(master, textvariable=save_dir)  # Field baru untuk lokasi penyimpanan\ne1.grid(row=0, column=1)\ne2.grid(row=1, column=1)\ne3.grid(row=2, column=1)\ne4.grid(row=3, column=1)\ntextbox = scrolledtext.ScrolledText(master, width=100, height=20)\ntextbox.grid(column=0, row=5, columnspan=2)\n# Mendefinisikan warna teks untuk setiap tag",
+        "detail": "comic_downloader_gui",
+        "documentation": {}
+    },
+    {
+        "label": "e3",
+        "kind": 5,
+        "importPath": "comic_downloader_gui",
+        "description": "comic_downloader_gui",
+        "peekOfCode": "e3 = tk.Entry(master)\ne4 = tk.Entry(master, textvariable=save_dir)  # Field baru untuk lokasi penyimpanan\ne1.grid(row=0, column=1)\ne2.grid(row=1, column=1)\ne3.grid(row=2, column=1)\ne4.grid(row=3, column=1)\ntextbox = scrolledtext.ScrolledText(master, width=100, height=20)\ntextbox.grid(column=0, row=5, columnspan=2)\n# Mendefinisikan warna teks untuk setiap tag\ntextbox.tag_config(\"red\", foreground=\"red\")",
+        "detail": "comic_downloader_gui",
+        "documentation": {}
+    },
+    {
+        "label": "e4",
+        "kind": 5,
+        "importPath": "comic_downloader_gui",
+        "description": "comic_downloader_gui",
+        "peekOfCode": "e4 = tk.Entry(master, textvariable=save_dir)  # Field baru untuk lokasi penyimpanan\ne1.grid(row=0, column=1)\ne2.grid(row=1, column=1)\ne3.grid(row=2, column=1)\ne4.grid(row=3, column=1)\ntextbox = scrolledtext.ScrolledText(master, width=100, height=20)\ntextbox.grid(column=0, row=5, columnspan=2)\n# Mendefinisikan warna teks untuk setiap tag\ntextbox.tag_config(\"red\", foreground=\"red\")\ntextbox.tag_config(\"green\", foreground=\"green\")",
+        "detail": "comic_downloader_gui",
+        "documentation": {}
+    },
+    {
+        "label": "textbox",
+        "kind": 5,
+        "importPath": "comic_downloader_gui",
+        "description": "comic_downloader_gui",
+        "peekOfCode": "textbox = scrolledtext.ScrolledText(master, width=100, height=20)\ntextbox.grid(column=0, row=5, columnspan=2)\n# Mendefinisikan warna teks untuk setiap tag\ntextbox.tag_config(\"red\", foreground=\"red\")\ntextbox.tag_config(\"green\", foreground=\"green\")\ntextbox.tag_config(\"yellow\", foreground=\"yellow\")\ntextbox.tag_config(\"blue\", foreground=\"blue\")\ntextbox.tag_config(\"magenta\", foreground=\"magenta\")\ntextbox.tag_config(\"cyan\", foreground=\"cyan\")\ntextbox.tag_config(\"white\", foreground=\"white\")",
+        "detail": "comic_downloader_gui",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stdout.write",
+        "kind": 5,
+        "importPath": "comic_downloader_gui",
+        "description": "comic_downloader_gui",
+        "peekOfCode": "sys.stdout.write = redirector\ntk.mainloop()",
+        "detail": "comic_downloader_gui",
+        "documentation": {}
+    },
+    {
+        "label": "str_to_float",
+        "kind": 2,
+        "importPath": "comic_html",
+        "description": "comic_html",
+        "peekOfCode": "def str_to_float(s):\n    while s:\n        try:\n            return float(s)\n        except ValueError:\n            s = s[:-1]\n    return 0  # Mengembalikan 0 jika tidak ada angka dalam string\nfor target_dir in args.target_dirs:\n    root_dir = join(target_dir, 'IMG')  # Menggunakan direktori target dari argumen\n    if not os.path.isdir(root_dir):  # Jika sub-direktori 'IMG' tidak ada, lanjutkan ke direktori target berikutnya",
+        "detail": "comic_html",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "comic_html",
+        "description": "comic_html",
+        "peekOfCode": "parser = argparse.ArgumentParser(description='Convert comic directories to HTML.')\nparser.add_argument('target_dirs', nargs='*', default=[os.getcwd()], help='Target directories to be converted.')\nargs = parser.parse_args()\ndef str_to_float(s):\n    while s:\n        try:\n            return float(s)\n        except ValueError:\n            s = s[:-1]\n    return 0  # Mengembalikan 0 jika tidak ada angka dalam string",
+        "detail": "comic_html",
+        "documentation": {}
+    },
+    {
+        "label": "args",
+        "kind": 5,
+        "importPath": "comic_html",
+        "description": "comic_html",
+        "peekOfCode": "args = parser.parse_args()\ndef str_to_float(s):\n    while s:\n        try:\n            return float(s)\n        except ValueError:\n            s = s[:-1]\n    return 0  # Mengembalikan 0 jika tidak ada angka dalam string\nfor target_dir in args.target_dirs:\n    root_dir = join(target_dir, 'IMG')  # Menggunakan direktori target dari argumen",
+        "detail": "comic_html",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "download_comic",
+        "description": "download_comic",
+        "peekOfCode": "parser = argparse.ArgumentParser(description='Download chapter komik.')\nparser.add_argument('slug', type=str, help='URL dasar dari chapter komik.')\nparser.add_argument('start', type=int, help='Mulai dari chapter.')\nparser.add_argument('end', nargs='?', type=int, help='Ending chapter. Jika tidak ditentukan, hanya chapter awal yang diunduh.')\nargs = parser.parse_args()\nslug = args.slug\nslug = slug.replace(\" \", \"-\").lower()\n# Ending chapter akan sama dengan start chapter jika tidak ditentukan\nif args.end is None:\n    args.end = args.start",
+        "detail": "download_comic",
+        "documentation": {}
+    },
+    {
+        "label": "args",
+        "kind": 5,
+        "importPath": "download_comic",
+        "description": "download_comic",
+        "peekOfCode": "args = parser.parse_args()\nslug = args.slug\nslug = slug.replace(\" \", \"-\").lower()\n# Ending chapter akan sama dengan start chapter jika tidak ditentukan\nif args.end is None:\n    args.end = args.start\n# Mendefinisikan berbagai format gambar\nimg_formats = [\"{num}.jpg\", \"{num:03}.jpg\", \"001_{num:03}.jpg\", \"002_{num:03}.jpg\", \"00_OPM.jpg\"]\nimage_count = 0\n# Loop dari chapter awal sampai akhir",
+        "detail": "download_comic",
+        "documentation": {}
+    },
+    {
+        "label": "slug",
+        "kind": 5,
+        "importPath": "download_comic",
+        "description": "download_comic",
+        "peekOfCode": "slug = args.slug\nslug = slug.replace(\" \", \"-\").lower()\n# Ending chapter akan sama dengan start chapter jika tidak ditentukan\nif args.end is None:\n    args.end = args.start\n# Mendefinisikan berbagai format gambar\nimg_formats = [\"{num}.jpg\", \"{num:03}.jpg\", \"001_{num:03}.jpg\", \"002_{num:03}.jpg\", \"00_OPM.jpg\"]\nimage_count = 0\n# Loop dari chapter awal sampai akhir\nfor i in range(args.start, args.end+1):",
+        "detail": "download_comic",
+        "documentation": {}
+    },
+    {
+        "label": "slug",
+        "kind": 5,
+        "importPath": "download_comic",
+        "description": "download_comic",
+        "peekOfCode": "slug = slug.replace(\" \", \"-\").lower()\n# Ending chapter akan sama dengan start chapter jika tidak ditentukan\nif args.end is None:\n    args.end = args.start\n# Mendefinisikan berbagai format gambar\nimg_formats = [\"{num}.jpg\", \"{num:03}.jpg\", \"001_{num:03}.jpg\", \"002_{num:03}.jpg\", \"00_OPM.jpg\"]\nimage_count = 0\n# Loop dari chapter awal sampai akhir\nfor i in range(args.start, args.end+1):\n    # Inisialisasi Base URL",
+        "detail": "download_comic",
+        "documentation": {}
+    },
+    {
+        "label": "img_formats",
+        "kind": 5,
+        "importPath": "download_comic",
+        "description": "download_comic",
+        "peekOfCode": "img_formats = [\"{num}.jpg\", \"{num:03}.jpg\", \"001_{num:03}.jpg\", \"002_{num:03}.jpg\", \"00_OPM.jpg\"]\nimage_count = 0\n# Loop dari chapter awal sampai akhir\nfor i in range(args.start, args.end+1):\n    # Inisialisasi Base URL\n    base_url = f\"https://komikcast.io/chapter/{slug}-chapter-\"\n    print(f\"\\nProcessing chapter {colored(f'{i}', 'light_cyan')}...\")\n    # Coba format URL yang berbeda\n    # chapter_formats = [str(i), f\"{i:02}\", f\"{i:02}-bahasa-indonesia\"]\n    chapter_formats = [f\"{i:02}-bahasa-indonesia\", f\"{i:02}\", str(i), f\"{i:01}-bahasa-indonesia\"]",
+        "detail": "download_comic",
+        "documentation": {}
+    },
+    {
+        "label": "image_count",
+        "kind": 5,
+        "importPath": "download_comic",
+        "description": "download_comic",
+        "peekOfCode": "image_count = 0\n# Loop dari chapter awal sampai akhir\nfor i in range(args.start, args.end+1):\n    # Inisialisasi Base URL\n    base_url = f\"https://komikcast.io/chapter/{slug}-chapter-\"\n    print(f\"\\nProcessing chapter {colored(f'{i}', 'light_cyan')}...\")\n    # Coba format URL yang berbeda\n    # chapter_formats = [str(i), f\"{i:02}\", f\"{i:02}-bahasa-indonesia\"]\n    chapter_formats = [f\"{i:02}-bahasa-indonesia\", f\"{i:02}\", str(i), f\"{i:01}-bahasa-indonesia\"]\n    urls = [f\"{base_url}{chapter_str}/\" for chapter_str in chapter_formats]",
+        "detail": "download_comic",
+        "documentation": {}
+    },
+    {
+        "label": "download_image",
+        "kind": 2,
+        "importPath": "kiryuid",
+        "description": "kiryuid",
+        "peekOfCode": "def download_image(img_url, img_name, chapter_folder_name, pbar):\n    img_data = session.get(img_url).content\n    with open(f\"{chapter_folder_name}/{img_name}\", \"wb\") as handler:\n        handler.write(img_data)\n    pbar.update(1)\ndef valid_image(img_url):\n    return (\n        img_url is not None\n        and (img_url.endswith(\".jpg\") or img_url.endswith(\".png\"))\n        and not img_url.endswith(\".gif\")",
+        "detail": "kiryuid",
+        "documentation": {}
+    },
+    {
+        "label": "valid_image",
+        "kind": 2,
+        "importPath": "kiryuid",
+        "description": "kiryuid",
+        "peekOfCode": "def valid_image(img_url):\n    return (\n        img_url is not None\n        and (img_url.endswith(\".jpg\") or img_url.endswith(\".png\"))\n        and not img_url.endswith(\".gif\")\n        and \"kclogo.png\" not in img_url\n        and \"logo-kiryuu-219671-d1yvN4qK.png\" not in img_url\n        and not img_url.startswith(\"//sstatic\")\n    )\nparser = argparse.ArgumentParser(description=\"Download chapter komik.\")",
+        "detail": "kiryuid",
+        "documentation": {}
+    },
+    {
+        "label": "expire_after",
+        "kind": 5,
+        "importPath": "kiryuid",
+        "description": "kiryuid",
+        "peekOfCode": "expire_after = 24 * 60 * 60  # 24 hours\nsession = requests_cache.CachedSession(\"kiryu_cache\", expire_after=expire_after)\n@retry(stop=stop_after_attempt(3), wait=wait_fixed(1))\ndef download_image(img_url, img_name, chapter_folder_name, pbar):\n    img_data = session.get(img_url).content\n    with open(f\"{chapter_folder_name}/{img_name}\", \"wb\") as handler:\n        handler.write(img_data)\n    pbar.update(1)\ndef valid_image(img_url):\n    return (",
+        "detail": "kiryuid",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "kind": 5,
+        "importPath": "kiryuid",
+        "description": "kiryuid",
+        "peekOfCode": "session = requests_cache.CachedSession(\"kiryu_cache\", expire_after=expire_after)\n@retry(stop=stop_after_attempt(3), wait=wait_fixed(1))\ndef download_image(img_url, img_name, chapter_folder_name, pbar):\n    img_data = session.get(img_url).content\n    with open(f\"{chapter_folder_name}/{img_name}\", \"wb\") as handler:\n        handler.write(img_data)\n    pbar.update(1)\ndef valid_image(img_url):\n    return (\n        img_url is not None",
+        "detail": "kiryuid",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "kiryuid",
+        "description": "kiryuid",
+        "peekOfCode": "parser = argparse.ArgumentParser(description=\"Download chapter komik.\")\nparser.add_argument(\"slug\", type=str, help=\"URL dasar dari chapter komik.\")\nparser.add_argument(\"start\", type=int, help=\"Mulai dari chapter.\")\nparser.add_argument(\n    \"end\",\n    nargs=\"?\",\n    type=int,\n    help=\"Ending chapter. Jika tidak ditentukan, hanya chapter awal yang diunduh.\",\n)\nargs = parser.parse_args()",
+        "detail": "kiryuid",
+        "documentation": {}
+    },
+    {
+        "label": "args",
+        "kind": 5,
+        "importPath": "kiryuid",
+        "description": "kiryuid",
+        "peekOfCode": "args = parser.parse_args()\nslug = args.slug\nslug = slug.replace(\" \", \"-\").lower()\nnama_comic = args.slug.replace(\"-\", \" \").replace('\"', \"\").title()\nif args.end is None:\n    args.end = args.start\nbase_url = f\"https://kiryuu.id/manga/{slug}/\"\nresponse = session.get(base_url)\nsoup = BeautifulSoup(response.text, \"html.parser\")\n# Cari semua div dengan class 'eph-num'",
+        "detail": "kiryuid",
+        "documentation": {}
+    },
+    {
+        "label": "slug",
+        "kind": 5,
+        "importPath": "kiryuid",
+        "description": "kiryuid",
+        "peekOfCode": "slug = args.slug\nslug = slug.replace(\" \", \"-\").lower()\nnama_comic = args.slug.replace(\"-\", \" \").replace('\"', \"\").title()\nif args.end is None:\n    args.end = args.start\nbase_url = f\"https://kiryuu.id/manga/{slug}/\"\nresponse = session.get(base_url)\nsoup = BeautifulSoup(response.text, \"html.parser\")\n# Cari semua div dengan class 'eph-num'\ndivs = soup.find_all(\"div\", {\"class\": \"eph-num\"})",
+        "detail": "kiryuid",
+        "documentation": {}
+    },
+    {
+        "label": "slug",
+        "kind": 5,
+        "importPath": "kiryuid",
+        "description": "kiryuid",
+        "peekOfCode": "slug = slug.replace(\" \", \"-\").lower()\nnama_comic = args.slug.replace(\"-\", \" \").replace('\"', \"\").title()\nif args.end is None:\n    args.end = args.start\nbase_url = f\"https://kiryuu.id/manga/{slug}/\"\nresponse = session.get(base_url)\nsoup = BeautifulSoup(response.text, \"html.parser\")\n# Cari semua div dengan class 'eph-num'\ndivs = soup.find_all(\"div\", {\"class\": \"eph-num\"})\nchapters = []  # Inisialisasi list chapters",
+        "detail": "kiryuid",
+        "documentation": {}
+    },
+    {
+        "label": "nama_comic",
+        "kind": 5,
+        "importPath": "kiryuid",
+        "description": "kiryuid",
+        "peekOfCode": "nama_comic = args.slug.replace(\"-\", \" \").replace('\"', \"\").title()\nif args.end is None:\n    args.end = args.start\nbase_url = f\"https://kiryuu.id/manga/{slug}/\"\nresponse = session.get(base_url)\nsoup = BeautifulSoup(response.text, \"html.parser\")\n# Cari semua div dengan class 'eph-num'\ndivs = soup.find_all(\"div\", {\"class\": \"eph-num\"})\nchapters = []  # Inisialisasi list chapters\n# Untuk setiap div, cari semua elemen a dan tambahkan href ke chapters",
+        "detail": "kiryuid",
+        "documentation": {}
+    },
+    {
+        "label": "base_url",
+        "kind": 5,
+        "importPath": "kiryuid",
+        "description": "kiryuid",
+        "peekOfCode": "base_url = f\"https://kiryuu.id/manga/{slug}/\"\nresponse = session.get(base_url)\nsoup = BeautifulSoup(response.text, \"html.parser\")\n# Cari semua div dengan class 'eph-num'\ndivs = soup.find_all(\"div\", {\"class\": \"eph-num\"})\nchapters = []  # Inisialisasi list chapters\n# Untuk setiap div, cari semua elemen a dan tambahkan href ke chapters\nfor div in divs:\n    a_tags = div.find_all(\"a\")\n    for a in a_tags:",
+        "detail": "kiryuid",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "kiryuid",
+        "description": "kiryuid",
+        "peekOfCode": "response = session.get(base_url)\nsoup = BeautifulSoup(response.text, \"html.parser\")\n# Cari semua div dengan class 'eph-num'\ndivs = soup.find_all(\"div\", {\"class\": \"eph-num\"})\nchapters = []  # Inisialisasi list chapters\n# Untuk setiap div, cari semua elemen a dan tambahkan href ke chapters\nfor div in divs:\n    a_tags = div.find_all(\"a\")\n    for a in a_tags:\n        chapters.append(a)",
+        "detail": "kiryuid",
+        "documentation": {}
+    },
+    {
+        "label": "soup",
+        "kind": 5,
+        "importPath": "kiryuid",
+        "description": "kiryuid",
+        "peekOfCode": "soup = BeautifulSoup(response.text, \"html.parser\")\n# Cari semua div dengan class 'eph-num'\ndivs = soup.find_all(\"div\", {\"class\": \"eph-num\"})\nchapters = []  # Inisialisasi list chapters\n# Untuk setiap div, cari semua elemen a dan tambahkan href ke chapters\nfor div in divs:\n    a_tags = div.find_all(\"a\")\n    for a in a_tags:\n        chapters.append(a)\nchapters.reverse()",
+        "detail": "kiryuid",
+        "documentation": {}
+    },
+    {
+        "label": "divs",
+        "kind": 5,
+        "importPath": "kiryuid",
+        "description": "kiryuid",
+        "peekOfCode": "divs = soup.find_all(\"div\", {\"class\": \"eph-num\"})\nchapters = []  # Inisialisasi list chapters\n# Untuk setiap div, cari semua elemen a dan tambahkan href ke chapters\nfor div in divs:\n    a_tags = div.find_all(\"a\")\n    for a in a_tags:\n        chapters.append(a)\nchapters.reverse()\nfiltered_chapters = []\nfor c in chapters:",
+        "detail": "kiryuid",
+        "documentation": {}
+    },
+    {
+        "label": "chapters",
+        "kind": 5,
+        "importPath": "kiryuid",
+        "description": "kiryuid",
+        "peekOfCode": "chapters = []  # Inisialisasi list chapters\n# Untuk setiap div, cari semua elemen a dan tambahkan href ke chapters\nfor div in divs:\n    a_tags = div.find_all(\"a\")\n    for a in a_tags:\n        chapters.append(a)\nchapters.reverse()\nfiltered_chapters = []\nfor c in chapters:\n    chapter_title_parts = c.text.split()",
+        "detail": "kiryuid",
+        "documentation": {}
+    },
+    {
+        "label": "filtered_chapters",
+        "kind": 5,
+        "importPath": "kiryuid",
+        "description": "kiryuid",
+        "peekOfCode": "filtered_chapters = []\nfor c in chapters:\n    chapter_title_parts = c.text.split()\n    try:\n        chapter_num = float(chapter_title_parts[1].split(\"-\")[0])\n        if int(args.start) <= int(chapter_num) <= int(args.end):\n            filtered_chapters.append(c)\n    except ValueError:\n        try:\n            chapter_num = float(chapter_title_parts[2].split(\"-\")[0])",
+        "detail": "kiryuid",
+        "documentation": {}
+    },
+    {
+        "label": "start_time",
+        "kind": 5,
+        "importPath": "kiryuid",
+        "description": "kiryuid",
+        "peekOfCode": "start_time = time.time()\nif args.start == args.end:\n    print(\n        f\"\\n==============================================================================================================================\\nMendownload Chapter {colored(f'{args.start}', 'light_cyan')} \\n==============================================================================================================================\"\n    )\nelse:\n    print(\n        f\"\\n==============================================================================================================================\\nMendownload Chapter {colored(f'{args.start}', 'light_cyan')} sampai {colored(f'{args.end}', 'light_cyan')} \\n==============================================================================================================================\"\n    )\n# Direktori berdasarkan current directory saat skrip dijalankan",
+        "detail": "kiryuid",
+        "documentation": {}
+    },
+    {
+        "label": "comic_folder_name",
+        "kind": 5,
+        "importPath": "kiryuid",
+        "description": "kiryuid",
+        "peekOfCode": "comic_folder_name = nama_comic\nimg_dir = os.path.join(os.getcwd(), comic_folder_name, \"IMG\")\nprint(filtered_chapters)\nfor chapter in filtered_chapters:\n    chapter_start_time = time.time()\n    chapter_url = chapter[\"href\"]\n    url = chapter_url\n    print(f\"{url}\")\n    chapter_name = chapter.text.split()[1]\n    if \".\" in chapter_name:",
+        "detail": "kiryuid",
+        "documentation": {}
+    },
+    {
+        "label": "img_dir",
+        "kind": 5,
+        "importPath": "kiryuid",
+        "description": "kiryuid",
+        "peekOfCode": "img_dir = os.path.join(os.getcwd(), comic_folder_name, \"IMG\")\nprint(filtered_chapters)\nfor chapter in filtered_chapters:\n    chapter_start_time = time.time()\n    chapter_url = chapter[\"href\"]\n    url = chapter_url\n    print(f\"{url}\")\n    chapter_name = chapter.text.split()[1]\n    if \".\" in chapter_name:\n        integer_part, decimal_part = chapter_name.split(\".\")",
+        "detail": "kiryuid",
+        "documentation": {}
+    },
+    {
+        "label": "end_time",
+        "kind": 5,
+        "importPath": "kiryuid",
+        "description": "kiryuid",
+        "peekOfCode": "end_time = time.time()\nif args.start == args.end:\n    print(\n        f\"\\n==============================================================================================================================\\nAll Pages from chapter {colored(f'{args.start}', 'light_cyan')} has been downloaded..\\n==============================================================================================================================\"\n    )\nelse:\n    print(\n        f\"\\n==============================================================================================================================\\nAll pages from these chapters: [ {colored(f'{args.start} - {args.end}', 'light_cyan')}] has been downloaded..\\n==============================================================================================================================\"\n    )\nprint(",
+        "detail": "kiryuid",
+        "documentation": {}
+    },
+    {
+        "label": "download_image",
+        "kind": 2,
+        "importPath": "komikcast",
+        "description": "komikcast",
+        "peekOfCode": "def download_image(img_url, img_name, chapter_folder_name, pbar):\n    img_data = session.get(img_url).content\n    with open(f\"{chapter_folder_name}/{img_name}\", \"wb\") as handler:\n        handler.write(img_data)\n    pbar.update(1)\ndef valid_image(img_url):\n    return (\n        img_url is not None\n        and (img_url.endswith(\".jpg\") or img_url.endswith(\".png\"))\n        and not img_url.endswith(\".gif\")",
+        "detail": "komikcast",
+        "documentation": {}
+    },
+    {
+        "label": "valid_image",
+        "kind": 2,
+        "importPath": "komikcast",
+        "description": "komikcast",
+        "peekOfCode": "def valid_image(img_url):\n    return (\n        img_url is not None\n        and (img_url.endswith(\".jpg\") or img_url.endswith(\".png\"))\n        and not img_url.endswith(\".gif\")\n        and \"kclogo.png\" not in img_url\n        and not img_url.startswith(\"//sstatic\")\n    )\nparser = argparse.ArgumentParser(description=\"Download chapter komik.\")\nparser.add_argument(\"slug\", type=str, help=\"URL dasar dari chapter komik.\")",
+        "detail": "komikcast",
+        "documentation": {}
+    },
+    {
+        "label": "expire_after",
+        "kind": 5,
+        "importPath": "komikcast",
+        "description": "komikcast",
+        "peekOfCode": "expire_after = 24 * 60 * 60  # 24 hours\nsession = requests_cache.CachedSession(\"komik_cache\", expire_after=expire_after)\n@retry(stop=stop_after_attempt(3), wait=wait_fixed(1))\ndef download_image(img_url, img_name, chapter_folder_name, pbar):\n    img_data = session.get(img_url).content\n    with open(f\"{chapter_folder_name}/{img_name}\", \"wb\") as handler:\n        handler.write(img_data)\n    pbar.update(1)\ndef valid_image(img_url):\n    return (",
+        "detail": "komikcast",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "kind": 5,
+        "importPath": "komikcast",
+        "description": "komikcast",
+        "peekOfCode": "session = requests_cache.CachedSession(\"komik_cache\", expire_after=expire_after)\n@retry(stop=stop_after_attempt(3), wait=wait_fixed(1))\ndef download_image(img_url, img_name, chapter_folder_name, pbar):\n    img_data = session.get(img_url).content\n    with open(f\"{chapter_folder_name}/{img_name}\", \"wb\") as handler:\n        handler.write(img_data)\n    pbar.update(1)\ndef valid_image(img_url):\n    return (\n        img_url is not None",
+        "detail": "komikcast",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "komikcast",
+        "description": "komikcast",
+        "peekOfCode": "parser = argparse.ArgumentParser(description=\"Download chapter komik.\")\nparser.add_argument(\"slug\", type=str, help=\"URL dasar dari chapter komik.\")\nparser.add_argument(\"start\", type=int, help=\"Mulai dari chapter.\")\nparser.add_argument(\n    \"end\",\n    nargs=\"?\",\n    type=int,\n    help=\"Ending chapter. Jika tidak ditentukan, hanya chapter awal yang diunduh.\",\n)\nargs = parser.parse_args()",
+        "detail": "komikcast",
+        "documentation": {}
+    },
+    {
+        "label": "args",
+        "kind": 5,
+        "importPath": "komikcast",
+        "description": "komikcast",
+        "peekOfCode": "args = parser.parse_args()\nslug = args.slug\nslug = slug.replace(\" \", \"-\").lower()\nnama_comic = args.slug.replace(\"-\", \" \").title()\nif args.end is None:\n    args.end = args.start\nbase_url = f\"https://komikcast.vip/komik/{slug}/\"\nresponse = session.get(base_url)\nsoup = BeautifulSoup(response.text, \"html.parser\")\nchapters = soup.find_all(\"a\", class_=\"chapter-link-item\")",
+        "detail": "komikcast",
+        "documentation": {}
+    },
+    {
+        "label": "slug",
+        "kind": 5,
+        "importPath": "komikcast",
+        "description": "komikcast",
+        "peekOfCode": "slug = args.slug\nslug = slug.replace(\" \", \"-\").lower()\nnama_comic = args.slug.replace(\"-\", \" \").title()\nif args.end is None:\n    args.end = args.start\nbase_url = f\"https://komikcast.vip/komik/{slug}/\"\nresponse = session.get(base_url)\nsoup = BeautifulSoup(response.text, \"html.parser\")\nchapters = soup.find_all(\"a\", class_=\"chapter-link-item\")\nchapters.reverse()",
+        "detail": "komikcast",
+        "documentation": {}
+    },
+    {
+        "label": "slug",
+        "kind": 5,
+        "importPath": "komikcast",
+        "description": "komikcast",
+        "peekOfCode": "slug = slug.replace(\" \", \"-\").lower()\nnama_comic = args.slug.replace(\"-\", \" \").title()\nif args.end is None:\n    args.end = args.start\nbase_url = f\"https://komikcast.vip/komik/{slug}/\"\nresponse = session.get(base_url)\nsoup = BeautifulSoup(response.text, \"html.parser\")\nchapters = soup.find_all(\"a\", class_=\"chapter-link-item\")\nchapters.reverse()\nfiltered_chapters = []",
+        "detail": "komikcast",
+        "documentation": {}
+    },
+    {
+        "label": "nama_comic",
+        "kind": 5,
+        "importPath": "komikcast",
+        "description": "komikcast",
+        "peekOfCode": "nama_comic = args.slug.replace(\"-\", \" \").title()\nif args.end is None:\n    args.end = args.start\nbase_url = f\"https://komikcast.vip/komik/{slug}/\"\nresponse = session.get(base_url)\nsoup = BeautifulSoup(response.text, \"html.parser\")\nchapters = soup.find_all(\"a\", class_=\"chapter-link-item\")\nchapters.reverse()\nfiltered_chapters = []\nfor c in chapters:",
+        "detail": "komikcast",
+        "documentation": {}
+    },
+    {
+        "label": "base_url",
+        "kind": 5,
+        "importPath": "komikcast",
+        "description": "komikcast",
+        "peekOfCode": "base_url = f\"https://komikcast.vip/komik/{slug}/\"\nresponse = session.get(base_url)\nsoup = BeautifulSoup(response.text, \"html.parser\")\nchapters = soup.find_all(\"a\", class_=\"chapter-link-item\")\nchapters.reverse()\nfiltered_chapters = []\nfor c in chapters:\n    chapter_title_parts = c.text.split()\n    try:\n        chapter_num = float(chapter_title_parts[1].split(\"-\")[0])",
+        "detail": "komikcast",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "komikcast",
+        "description": "komikcast",
+        "peekOfCode": "response = session.get(base_url)\nsoup = BeautifulSoup(response.text, \"html.parser\")\nchapters = soup.find_all(\"a\", class_=\"chapter-link-item\")\nchapters.reverse()\nfiltered_chapters = []\nfor c in chapters:\n    chapter_title_parts = c.text.split()\n    try:\n        chapter_num = float(chapter_title_parts[1].split(\"-\")[0])\n        if int(args.start) <= int(chapter_num) <= int(args.end):",
+        "detail": "komikcast",
+        "documentation": {}
+    },
+    {
+        "label": "soup",
+        "kind": 5,
+        "importPath": "komikcast",
+        "description": "komikcast",
+        "peekOfCode": "soup = BeautifulSoup(response.text, \"html.parser\")\nchapters = soup.find_all(\"a\", class_=\"chapter-link-item\")\nchapters.reverse()\nfiltered_chapters = []\nfor c in chapters:\n    chapter_title_parts = c.text.split()\n    try:\n        chapter_num = float(chapter_title_parts[1].split(\"-\")[0])\n        if int(args.start) <= int(chapter_num) <= int(args.end):\n            filtered_chapters.append(c)",
+        "detail": "komikcast",
+        "documentation": {}
+    },
+    {
+        "label": "chapters",
+        "kind": 5,
+        "importPath": "komikcast",
+        "description": "komikcast",
+        "peekOfCode": "chapters = soup.find_all(\"a\", class_=\"chapter-link-item\")\nchapters.reverse()\nfiltered_chapters = []\nfor c in chapters:\n    chapter_title_parts = c.text.split()\n    try:\n        chapter_num = float(chapter_title_parts[1].split(\"-\")[0])\n        if int(args.start) <= int(chapter_num) <= int(args.end):\n            filtered_chapters.append(c)\n    except ValueError:",
+        "detail": "komikcast",
+        "documentation": {}
+    },
+    {
+        "label": "filtered_chapters",
+        "kind": 5,
+        "importPath": "komikcast",
+        "description": "komikcast",
+        "peekOfCode": "filtered_chapters = []\nfor c in chapters:\n    chapter_title_parts = c.text.split()\n    try:\n        chapter_num = float(chapter_title_parts[1].split(\"-\")[0])\n        if int(args.start) <= int(chapter_num) <= int(args.end):\n            filtered_chapters.append(c)\n    except ValueError:\n        try:\n            chapter_num = float(chapter_title_parts[2].split(\"-\")[0])",
+        "detail": "komikcast",
+        "documentation": {}
+    },
+    {
+        "label": "start_time",
+        "kind": 5,
+        "importPath": "komikcast",
+        "description": "komikcast",
+        "peekOfCode": "start_time = time.time()\nif args.start == args.end:\n    print(\n        f\"\\n==============================================================================================================================\\nMendownload Chapter {colored(f'{args.start}', 'light_cyan')} \\n==============================================================================================================================\"\n    )\nelse:\n    print(\n        f\"\\n==============================================================================================================================\\nMendownload Chapter {colored(f'{args.start}', 'light_cyan')} sampai {colored(f'{args.end}', 'light_cyan')} \\n==============================================================================================================================\"\n    )\n# Direktori berdasarkan current directory saat skrip dijalankan",
+        "detail": "komikcast",
+        "documentation": {}
+    },
+    {
+        "label": "comic_folder_name",
+        "kind": 5,
+        "importPath": "komikcast",
+        "description": "komikcast",
+        "peekOfCode": "comic_folder_name = nama_comic\nimg_dir = os.path.join(os.getcwd(), comic_folder_name, \"IMG\")\nprint(img_dir)\nif not os.path.exists(img_dir):\n    os.makedirs(img_dir)\nfor chapter in filtered_chapters:\n    chapter_start_time = time.time()\n    chapter_url = chapter[\"href\"]\n    url = chapter_url\n    chapter_name = chapter.text.split()[1]",
+        "detail": "komikcast",
+        "documentation": {}
+    },
+    {
+        "label": "img_dir",
+        "kind": 5,
+        "importPath": "komikcast",
+        "description": "komikcast",
+        "peekOfCode": "img_dir = os.path.join(os.getcwd(), comic_folder_name, \"IMG\")\nprint(img_dir)\nif not os.path.exists(img_dir):\n    os.makedirs(img_dir)\nfor chapter in filtered_chapters:\n    chapter_start_time = time.time()\n    chapter_url = chapter[\"href\"]\n    url = chapter_url\n    chapter_name = chapter.text.split()[1]\n    if \".\" in chapter_name:",
+        "detail": "komikcast",
+        "documentation": {}
+    },
+    {
+        "label": "end_time",
+        "kind": 5,
+        "importPath": "komikcast",
+        "description": "komikcast",
+        "peekOfCode": "end_time = time.time()\nif args.start == args.end:\n    print(\n        f\"\\n==============================================================================================================================\\nAll Pages from chapter {colored(f'{args.start}', 'light_cyan')} has been downloaded..\\n==============================================================================================================================\"\n    )\nelse:\n    print(\n        f\"\\n==============================================================================================================================\\nAll pages from these chapters: [ {colored(f'{args.start} - {args.end}', 'light_cyan')}] has been downloaded..\\n==============================================================================================================================\"\n    )\nprint(",
+        "detail": "komikcast",
+        "documentation": {}
+    },
+    {
+        "label": "download_image",
+        "kind": 2,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "def download_image(img_url, img_name, chapter_folder_name, pbar):\n    headers = {\n        \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3\"\n    }\n    try:\n        img_data = session.get(img_url, headers=headers).content\n        with open(\n            os.path.join(chapter_folder_name, f\"{img_name}.jpg\"), \"wb\"\n        ) as handler:\n            handler.write(img_data)",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "valid_image",
+        "kind": 2,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "def valid_image(img_url):\n    return (\n        img_url is not None\n        and (img_url.endswith(\".jpg\") or img_url.endswith(\".png\"))\n        and not img_url.endswith(\".gif\")\n        and \"logo\" not in img_url\n        and not img_url.startswith(\"//static\")\n    )\ndef find_closest_match(comics, nama_comic):\n    titles = [comic[\"title\"] for comic in comics]",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "find_closest_match",
+        "kind": 2,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "def find_closest_match(comics, nama_comic):\n    titles = [comic[\"title\"] for comic in comics]\n    close_match = difflib.get_close_matches(nama_comic, titles, n=1, cutoff=0.6)\n    if close_match:\n        for comic in comics:\n            if comic[\"title\"] == close_match[0]:\n                return comic\n    return None\ndef search_komik(nama_comic):\n    print(\"Starting comic search...\")",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "search_komik",
+        "kind": 2,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "def search_komik(nama_comic):\n    print(\"Starting comic search...\")\n    query = nama_comic.lower().replace(\" \", \"%20\")\n    url = f\"https://ww5.mangakakalot.tv/search/{query}\"\n    response = session.get(url).content\n    soup = BeautifulSoup(response, \"html.parser\")\n    results = soup.find_all(\"div\", {\"class\": \"story_item\"})\n    if not results:\n        print(\"No results found.\")\n        return",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "mangakakalot_url",
+        "kind": 5,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "mangakakalot_url = \"https://ww6.mangakakalot.tv\"\nexpire_after = 24 * 60 * 60  # 24 hours\nsession = requests_cache.CachedSession(\"mangakakalot_cache\", expire_after=expire_after)\n@retry(stop=stop_after_attempt(3), wait=wait_fixed(1))\ndef download_image(img_url, img_name, chapter_folder_name, pbar):\n    headers = {\n        \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3\"\n    }\n    try:\n        img_data = session.get(img_url, headers=headers).content",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "expire_after",
+        "kind": 5,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "expire_after = 24 * 60 * 60  # 24 hours\nsession = requests_cache.CachedSession(\"mangakakalot_cache\", expire_after=expire_after)\n@retry(stop=stop_after_attempt(3), wait=wait_fixed(1))\ndef download_image(img_url, img_name, chapter_folder_name, pbar):\n    headers = {\n        \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3\"\n    }\n    try:\n        img_data = session.get(img_url, headers=headers).content\n        with open(",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "kind": 5,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "session = requests_cache.CachedSession(\"mangakakalot_cache\", expire_after=expire_after)\n@retry(stop=stop_after_attempt(3), wait=wait_fixed(1))\ndef download_image(img_url, img_name, chapter_folder_name, pbar):\n    headers = {\n        \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3\"\n    }\n    try:\n        img_data = session.get(img_url, headers=headers).content\n        with open(\n            os.path.join(chapter_folder_name, f\"{img_name}.jpg\"), \"wb\"",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "parser = argparse.ArgumentParser(description=\"Download comic chapters.\")\nparser.add_argument(\"nama_comic\", type=str, help=\"Name of the comic to download.\")\nparser.add_argument(\"start\", type=int, help=\"Start from this chapter.\")\nparser.add_argument(\n    \"end\",\n    nargs=\"?\",\n    type=int,\n    help=\"End at this chapter. If not provided, only the start chapter will be downloaded.\",\n)\nargs = parser.parse_args()",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "args",
+        "kind": 5,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "args = parser.parse_args()\nif args.end is None:\n    args.end = args.start\nprint(\"Arguments parsed...\")\nprint(\n    f\"Comic Name: {args.nama_comic}, Start Chapter: {args.start}, End Chapter: {args.end if args.end else 'Not provided'}\"\n)\nprint(\"Searching for comic...\")\ncomics = search_komik(args.nama_comic)\nprint(comics)",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "comics",
+        "kind": 5,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "comics = search_komik(args.nama_comic)\nprint(comics)\ncomic = find_closest_match(comics, args.nama_comic)\nif comic is None:\n    print(\"No comics found.\")\n    exit()\nprint(\"Comic found. Starting chapter retrieval...\")\nbase_url = comic[\"link\"]\nresponse = session.get(base_url)\nsoup = BeautifulSoup(response.text, \"html.parser\")",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "comic",
+        "kind": 5,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "comic = find_closest_match(comics, args.nama_comic)\nif comic is None:\n    print(\"No comics found.\")\n    exit()\nprint(\"Comic found. Starting chapter retrieval...\")\nbase_url = comic[\"link\"]\nresponse = session.get(base_url)\nsoup = BeautifulSoup(response.text, \"html.parser\")\nchapter_list_div = soup.find(\"div\", {\"class\": \"chapter-list\"})\nrows = chapter_list_div.find_all(\"div\", {\"class\": \"row\"})",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "base_url",
+        "kind": 5,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "base_url = comic[\"link\"]\nresponse = session.get(base_url)\nsoup = BeautifulSoup(response.text, \"html.parser\")\nchapter_list_div = soup.find(\"div\", {\"class\": \"chapter-list\"})\nrows = chapter_list_div.find_all(\"div\", {\"class\": \"row\"})\nchapters = []  # Initialize chapters list\nfor row in rows:\n    a_tag = row.find(\"a\")\n    title = a_tag.text.strip()  # text from a tag\n    link = a_tag[\"href\"]  # get href attribute from a tag",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "response = session.get(base_url)\nsoup = BeautifulSoup(response.text, \"html.parser\")\nchapter_list_div = soup.find(\"div\", {\"class\": \"chapter-list\"})\nrows = chapter_list_div.find_all(\"div\", {\"class\": \"row\"})\nchapters = []  # Initialize chapters list\nfor row in rows:\n    a_tag = row.find(\"a\")\n    title = a_tag.text.strip()  # text from a tag\n    link = a_tag[\"href\"]  # get href attribute from a tag\n    chapters.append({\"title\": title, \"link\": link})",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "soup",
+        "kind": 5,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "soup = BeautifulSoup(response.text, \"html.parser\")\nchapter_list_div = soup.find(\"div\", {\"class\": \"chapter-list\"})\nrows = chapter_list_div.find_all(\"div\", {\"class\": \"row\"})\nchapters = []  # Initialize chapters list\nfor row in rows:\n    a_tag = row.find(\"a\")\n    title = a_tag.text.strip()  # text from a tag\n    link = a_tag[\"href\"]  # get href attribute from a tag\n    chapters.append({\"title\": title, \"link\": link})\nprint(f\"Found {len(chapters)} chapters...\")",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "chapter_list_div",
+        "kind": 5,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "chapter_list_div = soup.find(\"div\", {\"class\": \"chapter-list\"})\nrows = chapter_list_div.find_all(\"div\", {\"class\": \"row\"})\nchapters = []  # Initialize chapters list\nfor row in rows:\n    a_tag = row.find(\"a\")\n    title = a_tag.text.strip()  # text from a tag\n    link = a_tag[\"href\"]  # get href attribute from a tag\n    chapters.append({\"title\": title, \"link\": link})\nprint(f\"Found {len(chapters)} chapters...\")\nchapters.reverse()",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "rows",
+        "kind": 5,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "rows = chapter_list_div.find_all(\"div\", {\"class\": \"row\"})\nchapters = []  # Initialize chapters list\nfor row in rows:\n    a_tag = row.find(\"a\")\n    title = a_tag.text.strip()  # text from a tag\n    link = a_tag[\"href\"]  # get href attribute from a tag\n    chapters.append({\"title\": title, \"link\": link})\nprint(f\"Found {len(chapters)} chapters...\")\nchapters.reverse()\nprint(\"First 10 chapter titles:\")",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "chapters",
+        "kind": 5,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "chapters = []  # Initialize chapters list\nfor row in rows:\n    a_tag = row.find(\"a\")\n    title = a_tag.text.strip()  # text from a tag\n    link = a_tag[\"href\"]  # get href attribute from a tag\n    chapters.append({\"title\": title, \"link\": link})\nprint(f\"Found {len(chapters)} chapters...\")\nchapters.reverse()\nprint(\"First 10 chapter titles:\")\nfor c in chapters[:10]:",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "filtered_chapters",
+        "kind": 5,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "filtered_chapters = [\n    c\n    for c in chapters\n    if re.search(r\"\\d+\", c[\"title\"])\n    and args.start <= int(re.search(r\"\\d+\", c[\"title\"]).group()) <= args.end\n]\nprint(\n    f\"Filtered Chapters: {len(filtered_chapters)}\"\n)  # Add this line to know the number of chapters to be downloaded\nprint(",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "start_time",
+        "kind": 5,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "start_time = time.time()\nprint(\"Starting comic download...\")\nif args.start == args.end:\n    print(\n        f\"\\n==============================================================================================================================\\nDownloading Chapter {colored(f'{args.start}', 'light_cyan')} \\n==============================================================================================================================\"\n    )\nelse:\n    print(\n        f\"\\n==============================================================================================================================\\nDownloading Chapter {colored(f'{args.start}', 'light_cyan')} to {colored(f'{args.end}', 'light_cyan')} \\n==============================================================================================================================\"\n    )",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "comic_folder_name",
+        "kind": 5,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "comic_folder_name = args.nama_comic.replace(\"-\", \" \").title()\nimg_dir = os.path.join(os.getcwd(), comic_folder_name, \"IMG\")\nprint(img_dir)\nif not os.path.exists(img_dir):\n    os.makedirs(img_dir)\nfor chapter in filtered_chapters:\n    chapter_start_time = time.time()\n    chapter_url = mangakakalot_url + chapter[\"link\"]\n    url = chapter_url\n    response = session.get(chapter_url)",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "img_dir",
+        "kind": 5,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "img_dir = os.path.join(os.getcwd(), comic_folder_name, \"IMG\")\nprint(img_dir)\nif not os.path.exists(img_dir):\n    os.makedirs(img_dir)\nfor chapter in filtered_chapters:\n    chapter_start_time = time.time()\n    chapter_url = mangakakalot_url + chapter[\"link\"]\n    url = chapter_url\n    response = session.get(chapter_url)\n    chapter_name = chapter[\"title\"].split()[1].replace(\":\", \"\")",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "end_time",
+        "kind": 5,
+        "importPath": "mangakakalot",
+        "description": "mangakakalot",
+        "peekOfCode": "end_time = time.time()\nif args.start == args.end:\n    print(\n        f\"\\n==============================================================================================================================\\nAll Pages from chapter {colored(f'{args.start}', 'light_cyan')} has been downloaded..\\n==============================================================================================================================\"\n    )\nelse:\n    print(\n        f\"\\n==============================================================================================================================\\nAll pages from these chapters: [ {colored(f'{args.start} - {args.end}', 'light_cyan')}] has been downloaded..\\n==============================================================================================================================\"\n    )\nprint(",
+        "detail": "mangakakalot",
+        "documentation": {}
+    },
+    {
+        "label": "download_image",
+        "kind": 2,
+        "importPath": "manganato",
+        "description": "manganato",
+        "peekOfCode": "def download_image(img_url, img_name, chapter_folder_name, pbar):\n    headers = {\n        \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3\"\n    }\n    try:\n        img_data = session.get(img_url, headers=headers).content\n        with open(f'{chapter_folder_name}/{img_name}', 'wb') as handler:\n            handler.write(img_data)\n        pbar.update(1)\n    except Exception as e:",
+        "detail": "manganato",
+        "documentation": {}
+    },
+    {
+        "label": "valid_image",
+        "kind": 2,
+        "importPath": "manganato",
+        "description": "manganato",
+        "peekOfCode": "def valid_image(img_url):\n    return img_url is not None and \\\n           (img_url.endswith(\".jpg\") or img_url.endswith(\".png\")) and \\\n           not img_url.endswith(\".gif\") and \\\n           \"logo\" not in img_url and \\\n           not img_url.startswith(\"//static\")\ndef find_closest_match(comics, nama_comic):\n    titles = [comic['title'] for comic in comics]\n    close_match = difflib.get_close_matches(nama_comic, titles, n=1, cutoff=0.6)\n    if close_match:",
+        "detail": "manganato",
+        "documentation": {}
+    },
+    {
+        "label": "find_closest_match",
+        "kind": 2,
+        "importPath": "manganato",
+        "description": "manganato",
+        "peekOfCode": "def find_closest_match(comics, nama_comic):\n    titles = [comic['title'] for comic in comics]\n    close_match = difflib.get_close_matches(nama_comic, titles, n=1, cutoff=0.6)\n    if close_match:\n        for comic in comics:\n            if comic['title'] == close_match[0]:\n                return comic\n    return None\ndef search_komik(nama_comic):\n    print(\"Starting comic search...\")",
+        "detail": "manganato",
+        "documentation": {}
+    },
+    {
+        "label": "search_komik",
+        "kind": 2,
+        "importPath": "manganato",
+        "description": "manganato",
+        "peekOfCode": "def search_komik(nama_comic):\n    print(\"Starting comic search...\")\n    # Ubah nama_comic menjadi lowercase dan replace spasi dengan \"_\"\n    query = nama_comic.lower().replace(' ', '_')\n    # Buat URL untuk pencarian\n    url = f\"https://manganato.com/search/story/{query}\"\n    # Membuat instance scraper\n    response = session.get(url).content  \n    # Parse HTML page source dengan BeautifulSoup\n    soup = BeautifulSoup(response, 'html.parser')",
+        "detail": "manganato",
+        "documentation": {}
+    },
+    {
+        "label": "expire_after",
+        "kind": 5,
+        "importPath": "manganato",
+        "description": "manganato",
+        "peekOfCode": "expire_after = 24 * 60 * 60  # 24 hours\nsession = requests_cache.CachedSession('manganato_cache', expire_after=expire_after)\n@retry(stop=stop_after_attempt(3), wait=wait_fixed(1))\ndef download_image(img_url, img_name, chapter_folder_name, pbar):\n    headers = {\n        \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3\"\n    }\n    try:\n        img_data = session.get(img_url, headers=headers).content\n        with open(f'{chapter_folder_name}/{img_name}', 'wb') as handler:",
+        "detail": "manganato",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "kind": 5,
+        "importPath": "manganato",
+        "description": "manganato",
+        "peekOfCode": "session = requests_cache.CachedSession('manganato_cache', expire_after=expire_after)\n@retry(stop=stop_after_attempt(3), wait=wait_fixed(1))\ndef download_image(img_url, img_name, chapter_folder_name, pbar):\n    headers = {\n        \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3\"\n    }\n    try:\n        img_data = session.get(img_url, headers=headers).content\n        with open(f'{chapter_folder_name}/{img_name}', 'wb') as handler:\n            handler.write(img_data)",
+        "detail": "manganato",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "manganato",
+        "description": "manganato",
+        "peekOfCode": "parser = argparse.ArgumentParser(description='Download chapter komik.')\nparser.add_argument('nama_comic', type=str, help='Nama komik untuk diunduh.')\nparser.add_argument('start', type=int, help='Mulai dari chapter.')\nparser.add_argument('end', nargs='?', type=int, help='Ending chapter. Jika tidak ditentukan, hanya chapter awal yang diunduh.')\nargs = parser.parse_args()\nprint(\"Arguments parsed...\")\nprint(f\"Comic Name: {args.nama_comic}, Start Chapter: {args.start}, End Chapter: {args.end if args.end else 'Not provided'}\")\nprint(\"Searching for comic...\")\ncomics = search_komik(args.nama_comic)\ncomic = find_closest_match(comics, args.nama_comic)",
+        "detail": "manganato",
+        "documentation": {}
+    },
+    {
+        "label": "args",
+        "kind": 5,
+        "importPath": "manganato",
+        "description": "manganato",
+        "peekOfCode": "args = parser.parse_args()\nprint(\"Arguments parsed...\")\nprint(f\"Comic Name: {args.nama_comic}, Start Chapter: {args.start}, End Chapter: {args.end if args.end else 'Not provided'}\")\nprint(\"Searching for comic...\")\ncomics = search_komik(args.nama_comic)\ncomic = find_closest_match(comics, args.nama_comic)\nif comic is None:\n    print(\"No comics found.\")\n    exit()\nprint(\"Comic found. Starting chapter retrieval...\")",
+        "detail": "manganato",
+        "documentation": {}
+    },
+    {
+        "label": "comics",
+        "kind": 5,
+        "importPath": "manganato",
+        "description": "manganato",
+        "peekOfCode": "comics = search_komik(args.nama_comic)\ncomic = find_closest_match(comics, args.nama_comic)\nif comic is None:\n    print(\"No comics found.\")\n    exit()\nprint(\"Comic found. Starting chapter retrieval...\")\nbase_url = comic['link']\nresponse = session.get(base_url)\nsoup = BeautifulSoup(response.text, 'html.parser')\n# Cari semua elemen li dengan class 'a-h'",
+        "detail": "manganato",
+        "documentation": {}
+    },
+    {
+        "label": "comic",
+        "kind": 5,
+        "importPath": "manganato",
+        "description": "manganato",
+        "peekOfCode": "comic = find_closest_match(comics, args.nama_comic)\nif comic is None:\n    print(\"No comics found.\")\n    exit()\nprint(\"Comic found. Starting chapter retrieval...\")\nbase_url = comic['link']\nresponse = session.get(base_url)\nsoup = BeautifulSoup(response.text, 'html.parser')\n# Cari semua elemen li dengan class 'a-h'\nlis = soup.find_all('li', {'class': 'a-h'})",
+        "detail": "manganato",
+        "documentation": {}
+    },
+    {
+        "label": "base_url",
+        "kind": 5,
+        "importPath": "manganato",
+        "description": "manganato",
+        "peekOfCode": "base_url = comic['link']\nresponse = session.get(base_url)\nsoup = BeautifulSoup(response.text, 'html.parser')\n# Cari semua elemen li dengan class 'a-h'\nlis = soup.find_all('li', {'class': 'a-h'})\nchapters = []  # Inisialisasi list chapters\n# Untuk setiap li, cari semua elemen a dan tambahkan href ke chapters\nfor li in lis:\n    a_tag = li.find('a', {'class': 'chapter-name text-nowrap'})\n    chapters.append(a_tag)",
+        "detail": "manganato",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "manganato",
+        "description": "manganato",
+        "peekOfCode": "response = session.get(base_url)\nsoup = BeautifulSoup(response.text, 'html.parser')\n# Cari semua elemen li dengan class 'a-h'\nlis = soup.find_all('li', {'class': 'a-h'})\nchapters = []  # Inisialisasi list chapters\n# Untuk setiap li, cari semua elemen a dan tambahkan href ke chapters\nfor li in lis:\n    a_tag = li.find('a', {'class': 'chapter-name text-nowrap'})\n    chapters.append(a_tag)\nprint(f\"Found {len(chapters)} chapters...\")",
+        "detail": "manganato",
+        "documentation": {}
+    },
+    {
+        "label": "soup",
+        "kind": 5,
+        "importPath": "manganato",
+        "description": "manganato",
+        "peekOfCode": "soup = BeautifulSoup(response.text, 'html.parser')\n# Cari semua elemen li dengan class 'a-h'\nlis = soup.find_all('li', {'class': 'a-h'})\nchapters = []  # Inisialisasi list chapters\n# Untuk setiap li, cari semua elemen a dan tambahkan href ke chapters\nfor li in lis:\n    a_tag = li.find('a', {'class': 'chapter-name text-nowrap'})\n    chapters.append(a_tag)\nprint(f\"Found {len(chapters)} chapters...\")\nchapters.reverse()",
+        "detail": "manganato",
+        "documentation": {}
+    },
+    {
+        "label": "lis",
+        "kind": 5,
+        "importPath": "manganato",
+        "description": "manganato",
+        "peekOfCode": "lis = soup.find_all('li', {'class': 'a-h'})\nchapters = []  # Inisialisasi list chapters\n# Untuk setiap li, cari semua elemen a dan tambahkan href ke chapters\nfor li in lis:\n    a_tag = li.find('a', {'class': 'chapter-name text-nowrap'})\n    chapters.append(a_tag)\nprint(f\"Found {len(chapters)} chapters...\")\nchapters.reverse()\nprint(\"First 10 chapter titles:\")\nfor c in chapters[:10]:",
+        "detail": "manganato",
+        "documentation": {}
+    },
+    {
+        "label": "chapters",
+        "kind": 5,
+        "importPath": "manganato",
+        "description": "manganato",
+        "peekOfCode": "chapters = []  # Inisialisasi list chapters\n# Untuk setiap li, cari semua elemen a dan tambahkan href ke chapters\nfor li in lis:\n    a_tag = li.find('a', {'class': 'chapter-name text-nowrap'})\n    chapters.append(a_tag)\nprint(f\"Found {len(chapters)} chapters...\")\nchapters.reverse()\nprint(\"First 10 chapter titles:\")\nfor c in chapters[:10]:\n    print(c.text)",
+        "detail": "manganato",
+        "documentation": {}
+    },
+    {
+        "label": "filtered_chapters",
+        "kind": 5,
+        "importPath": "manganato",
+        "description": "manganato",
+        "peekOfCode": "filtered_chapters = []\nfor c in chapters:\n    chapter_title_parts = c.text.split(':')\n    try:\n        chapter_num = int(chapter_title_parts[0].split()[-1])\n        if args.start <= chapter_num <= args.end:\n            filtered_chapters.append(c)\n    except ValueError:\n        pass\nprint(f\"Filtered Chapters: {len(filtered_chapters)}\")  # Tambahkan baris ini untuk mengetahui jumlah chapter yang akan diunduh",
+        "detail": "manganato",
+        "documentation": {}
+    },
+    {
+        "label": "start_time",
+        "kind": 5,
+        "importPath": "manganato",
+        "description": "manganato",
+        "peekOfCode": "start_time = time.time()\nprint(\"Starting comic download...\")\nif args.start == args.end:\n   print(f\"\\n==============================================================================================================================\\nMendownload Chapter {colored(f'{args.start}', 'light_cyan')} \\n==============================================================================================================================\")\nelse:\n   print(f\"\\n==============================================================================================================================\\nMendownload Chapter {colored(f'{args.start}', 'light_cyan')} sampai {colored(f'{args.end}', 'light_cyan')} \\n==============================================================================================================================\")\nimg_dir = os.path.join(os.getcwd(), 'IMG')\nos.makedirs(img_dir, exist_ok=True)  # Membuat direktori IMG jika belum ada\nfor chapter in filtered_chapters:\n    chapter_start_time = time.time()",
+        "detail": "manganato",
+        "documentation": {}
+    },
+    {
+        "label": "img_dir",
+        "kind": 5,
+        "importPath": "manganato",
+        "description": "manganato",
+        "peekOfCode": "img_dir = os.path.join(os.getcwd(), 'IMG')\nos.makedirs(img_dir, exist_ok=True)  # Membuat direktori IMG jika belum ada\nfor chapter in filtered_chapters:\n    chapter_start_time = time.time()\n    chapter_url = chapter['href']\n    url = chapter_url\n    response = session.get(chapter_url)\n    chapter_name = chapter.text.split()[1]\n    print(f\"Processing URL: {url}\")\n    if '.' in chapter_name:",
+        "detail": "manganato",
+        "documentation": {}
+    },
+    {
+        "label": "end_time",
+        "kind": 5,
+        "importPath": "manganato",
+        "description": "manganato",
+        "peekOfCode": "end_time = time.time()\nif args.start == args.end:\n    print(f\"\\n==============================================================================================================================\\nAll Pages from chapter {colored(f'{args.start}', 'light_cyan')} has been downloaded..\\n==============================================================================================================================\")\nelse:\n    print(f\"\\n==============================================================================================================================\\nAll pages from these chapters: [ {colored(f'{args.start} - {args.end}', 'light_cyan')}] has been downloaded..\\n==============================================================================================================================\")\nprint(f\"\\n[{colored('Total time taken to download chapters:', 'white')} {colored(f'{end_time - start_time:.2f}', 'light_yellow')} seconds]\")",
+        "detail": "manganato",
+        "documentation": {}
+    },
+    {
+        "label": "search_komik",
+        "kind": 2,
+        "importPath": "search_comic_manganato",
+        "description": "search_comic_manganato",
+        "peekOfCode": "def search_komik(nama_comic):\n    # Ubah nama_comic menjadi lowercase dan replace spasi dengan \"_\"\n    query = nama_comic.lower().replace(' ', '_')\n    # Buat URL untuk pencarian\n    url = f\"https://manganato.com/search/story/{query}\"\n    # Membuat instance scraper\n    scraper = cfscrape.create_scraper()\n    try:\n        # Menggunakan scraper untuk mendapatkan konten halaman\n        response = scraper.get(url).content  ",
+        "detail": "search_comic_manganato",
+        "documentation": {}
+    },
+    {
+        "label": "find_closest_match",
+        "kind": 2,
+        "importPath": "search_comic_manganato",
+        "description": "search_comic_manganato",
+        "peekOfCode": "def find_closest_match(comics, nama_comic):\n    titles = [comic['title'] for comic in comics]\n    close_match = difflib.get_close_matches(nama_comic, titles, n=1, cutoff=0.6)\n    if close_match:\n        for comic in comics:\n            if comic['title'] == close_match[0]:\n                return comic\n    return None\ndef main():\n    # Membuat parser argumen",
+        "detail": "search_comic_manganato",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "search_comic_manganato",
+        "description": "search_comic_manganato",
+        "peekOfCode": "def main():\n    # Membuat parser argumen\n    parser = argparse.ArgumentParser(description=\"Search comic script\")\n    parser.add_argument(\"nama_comic\", help=\"The name of the comic to search\")\n    # Parsing argumen\n    args = parser.parse_args()\n    # Jalankan fungsi search_komik dengan nama_comic sebagai argumen\n    results = search_komik(args.nama_comic)\n    # Cari komik yang paling mendekati nama_comic\n    closest_comic = find_closest_match(results, args.nama_comic)",
+        "detail": "search_comic_manganato",
+        "documentation": {}
+    }
+]
